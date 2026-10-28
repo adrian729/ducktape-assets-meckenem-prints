@@ -1,0 +1,55 @@
+# descriptive: find it and understand it
+id: circular-acanthus-wreath
+title: Circular acanthus wreath
+description: A ring-shaped engraved wreath of curling acanthus stems and lobed leaves around an open circular centre. Two thick stems run around the inside of the ring and are bound together at the top and at the bottom. Flower heads, buds, a netted fruit at the lower right and a large blossom at the right sit among the scrolls, which end in small leaf tips around the outer edge. No figures or masks. Dark brown ink line work on cream paper; the centre and the background are transparent.
+type: frame
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - wreath
+  - acanthus
+  - leaf
+  - scroll
+  - frame
+  - flower
+  - bud
+  - fruit
+colors:
+  - cream
+  - brown
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-163
+render:
+  image: {}
+related:
+  - { asset: meckenem-prints/two-seated-musicians-with-shared-fountain, role: companion }
+usage_notes:
+  - The open centre is about half the diameter of the ring; in the print it holds the two musicians at the well, so place that scene or a roundel of similar size inside it.
+  - A circular ring, not a nine-slice frame; it is placed as an image, not as a CSS border-image.
+display_width:
+  - 400
+  - 800
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Circular Ornament with Musicians Playing near a Well
+  object_identifier: 1943.3.163
+  date: c. 1495/1503
+  artist: Israhel van Meckenem
+  record_url: https://www.nga.gov/collection/art-object-page.3375.html
+  image_url: https://api.nga.gov/iiif/402edd12-ca6a-4c3c-b9d0-507e8f95e985/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: e60d9b77c83e40852274de9b27356b17f0dc4fb3d00abc058b5c5229c5a40336
+license: null

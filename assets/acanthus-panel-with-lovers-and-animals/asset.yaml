@@ -1,0 +1,63 @@
+# descriptive: find it and understand it
+id: acanthus-panel-with-lovers-and-animals
+title: Acanthus panel with two lovers
+description: A large horizontal engraved panel filled edge to edge with curling acanthus stems and lobed leaves. At the top centre a seated couple, a woman in a tall hennin with a small dog on her lap and a young man in a cap, under a banderole inscribed with the artist's name. Among the scrolls are two birds at the top corners, nude figures climbing and riding the stems, a bearded man with a spear at the right, a youth rising from a tuft of grass at the bottom, a fox at the lower left, a man raising a cup at the lower right and two hanging pod finials. Dark brown ink on cream, background transparent.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+  - humans
+  - animals
+  - fantasy
+subjects:
+  - acanthus
+  - leaf
+  - scroll
+  - lover
+  - woman
+  - human
+  - dog
+  - bird
+  - fox
+  - cup
+  - weapon
+  - ribbon
+  - monogram
+  - pendant
+  - grass
+colors:
+  - cream
+  - brown
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 1943-3-170
+render:
+  image: {}
+usage_notes:
+  - Complete panel with no frame line; its outer leaves are the natural edge, so it can sit directly on a page.
+  - The signature banderole above the couple is part of the print and should stay visible.
+display_width:
+  - 700
+  - 1400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Ornament Panel with Two Lovers
+  object_identifier: 1943.3.170
+  date: c. 1490/1500
+  artist: Israhel van Meckenem
+  record_url: https://www.nga.gov/collection/art-object-page.3382.html
+  image_url: https://api.nga.gov/iiif/e0108f4c-e9b4-482b-8e78-2c20f96d32a6/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: e77fbec4fbd1f8058e7b895fca796490aaa564e2f0689069578c82213f88c13f
+license: null

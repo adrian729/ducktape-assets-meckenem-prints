@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: two-seated-musicians-with-shared-fountain
+title: Two musicians at a well
+description: An engraved scene of two musicians seated on stone blocks on either side of an octagonal well. At the left a barefoot young man with curly hair in a short tunic plays a lute with a plectrum, facing right; at the right a woman in a long gown with long hair plays a harp, facing left. Between them a small Gothic canopy on four posts with a cross finial and a perched bird rises over the water, a vessel hangs from a tripod above it, a bird drinks at the rim, and two potted trees stand behind. Dark brown ink line work on cream paper, background transparent.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - musician
+  - lute
+  - harp
+  - fountain
+  - woman
+  - human
+  - bird
+  - tree
+  - tower
+  - cross
+  - architecture
+colors:
+  - cream
+  - brown
+  - black
+facing: mixed
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 1943-3-163
+render:
+  image: {}
+related:
+  - { asset: meckenem-prints/circular-acanthus-wreath, role: companion }
+usage_notes:
+  - The centre of the same print; it fits inside the open ring of the circular wreath at about half the wreath's width.
+display_width:
+  - 300
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: National Gallery of Art, Washington
+  object_title: Circular Ornament with Musicians Playing near a Well
+  object_identifier: 1943.3.163
+  date: c. 1495/1503
+  artist: Israhel van Meckenem
+  record_url: https://www.nga.gov/collection/art-object-page.3375.html
+  image_url: https://api.nga.gov/iiif/402edd12-ca6a-4c3c-b9d0-507e8f95e985/full/full/0/default.jpg
+  rights_text: Open Access / public domain; official image dataset openaccess=1
+  rights_url: https://www.nga.gov/artworks/free-images-and-open-access
+  source_sha256: e60d9b77c83e40852274de9b27356b17f0dc4fb3d00abc058b5c5229c5a40336
+license: null
